@@ -2,6 +2,7 @@
 <h5>I'm a Data Science enthusiast and Web Developer</h5>
 
 
+<h2>Statistics</h2>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=techishant&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Ishant GitHub stats](https://github-readme-stats.vercel.app/api?username=techishant&count_private=true&show_icons=true&theme=radical)
 
