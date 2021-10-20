@@ -13,7 +13,7 @@
 
 ## Github Stats.
 <a href="https://github.com/Dhara3078/github-readme-activity-graph"><img alt="Ishant Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=techishant&bg_color=141321&color=c73774&line=fd428d&point=FFFFFF" /></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techishant&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techishant&show_icons=true&theme=radical&layout=compact"/>
 
 
 
