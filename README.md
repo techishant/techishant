@@ -2,6 +2,9 @@
 <h5>I'm a Data Science enthusiast and Web Developer</h5>
 
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=techishant&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 - 🔭 I’m currently working on Django Ecommerce Website
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on Django Web Development
