@@ -2,8 +2,6 @@
 <h5>I'm a Data Science enthusiast and Web Developer</h5>
 
 
-## Statistics
-
 <p align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=techishant&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
 <!-- </p>
@@ -11,10 +9,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=techishant&count_private=true&show_icons=true&theme=radical" />
 </p>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techishant&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techishant&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Github Stats.
 <a href="https://github.com/Dhara3078/github-readme-activity-graph"><img alt="Ishant Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=techishant&bg_color=141321&color=c73774&line=fd428d&point=FFFFFF" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techishant&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
 
 
 
