@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Hand Emoji" height="45" width="45" />, I'm Ishant Sharma</h1>
-<h3>I'm passionate about programming. I'm interested in Web-Development</h3>
+<h3>I'm passionate about programming and interested in Web-Development</h3>
 
 
 <p align="center">
