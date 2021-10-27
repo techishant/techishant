@@ -3,7 +3,6 @@
 
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=techishant&label=Profile%20views&color=6805D3">
  <a target=_blank href="http://github-readme-streak-stats.herokuapp.com/?user=techishant&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=techishant&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
  </a>
@@ -11,6 +10,8 @@
 <p align="center"> -->
 <img src="https://github-readme-stats.vercel.app/api?username=techishant&count_private=true&show_icons=true&theme=radical" />
 </p>
+
+<h2> <p align=center> <img src="https://komarev.com/ghpvc/?username=techishant&label=Profile%20views&color=6805D3"></p> </h2>
  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techishant&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
