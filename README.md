@@ -1,8 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Hand Emoji" height="45" width="45" />, I'm Ishant Sharma</h1>
-<h5>I'm a Data Science enthusiast and Web Developer</h5>
+<h3>I'm passionate about programming. I'm interested in Web-Development</h3>
 
 
 <p align="center">
+ <img src="https://komarev.com/ghpvc/?username=techishant&label=Profile%20views&color=6805D3">
  <a target=_blank href="http://github-readme-streak-stats.herokuapp.com/?user=techishant&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=techishant&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
  </a>
