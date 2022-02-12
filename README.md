@@ -1,6 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Hand Emoji" height="45" width="45" />, I'm Ishant Sharma</h1>
-<h3>I'm passionate about programming and interested in Web-Development</h3>
+<b>I'm passionate about programming. I like problem solving a lot. I'm learning web development and Data Science and loves to explore tech.</b>
 
+<p align=center><a href="https://techishant.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/My-Portfolio-0868AC?&style=for-the-badge"/></p>
 
 <p align="center">
  <a target=_blank href="http://github-readme-streak-stats.herokuapp.com/?user=techishant&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
@@ -11,9 +12,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=techishant&count_private=true&show_icons=true&theme=radical" />
 </p>
 
-<h2> <p align=center> <img src="https://komarev.com/ghpvc/?username=techishant&label=Profile%20views&color=6805D3"></p> </h2>
- 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techishant&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Github Stats.
 <img alt="Ishant Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=techishant&bg_color=141321&color=c73774&line=fd428d&point=FFFFFF" />
@@ -39,5 +37,7 @@
 | <img alt="JAVA" src="https://img.shields.io/badge/JAVA-f89820?&style=for-the-badge&logo=JAVA&logoColor=F5F8FA" /> | <img alt="CSS" src="https://img.shields.io/badge/css-2965f1?&style=for-the-badge&logo=css3&logoColor=F5F8FA" />  | <img alt="PHP" src="https://img.shields.io/badge/php-8993be?&style=for-the-badge&logo=php&logoColor=F5F8FA" /> | <img alt="Mongo DB" src="https://img.shields.io/badge/Mongo DB-3FA037?&style=for-the-badge&logo=mongodb&logoColor=F5F8FA" /> | <img alt="Heroku" src="https://img.shields.io/badge/Heroku-6762a6?&style=for-the-badge&logo=Heroku&logoColor=F5F8FA" /> |
 || <img alt="Javascript" src="https://img.shields.io/badge/Javascript-F0DB4F?&style=for-the-badge&logo=javascript&logoColor=323330" /> |  | | <img alt="Pages" src="https://img.shields.io/badge/Github Pages-333?&style=for-the-badge&logo=github&logoColor=F5F8FA" /> |
 || <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-602C50?&style=for-the-badge&logo=bootstrap&logoColor=F5F8FA" />  || |
-|| <img alt="Jquery" src="https://img.shields.io/badge/Jquery-0868AC?&style=for-the-badge&logo=jquery&logoColor=F5F8FA" /> ||| |
+|| <img alt="Jquery" src="https://img.shields.io/badge/Jquery-0868AC?&style=for-the-badge&logo=jquery&logoColor=F5F8FA" /> |||||
+
+<img src="https://komarev.com/ghpvc/?username=techishant&label=Views&color=6805D3">
 
