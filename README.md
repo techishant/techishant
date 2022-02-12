@@ -17,7 +17,7 @@
 
 ## Github Stats.
 <img alt="Ishant Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=techishant&bg_color=141321&color=c73774&line=fd428d&point=FFFFFF" />
-<center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techishant&show_icons=true&theme=radical&layout=compact"/></center>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techishant&show_icons=true&theme=radical&layout=compact"/></p>
 
 # How to reach me 
 <a href="mailto:ishantsh12234@gmail.com?subject=Hello%20Ishant,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
