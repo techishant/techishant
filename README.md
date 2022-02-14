@@ -18,7 +18,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techishant&show_icons=true&theme=radical"/></p>
 
 # My Development Stack
-<div align=center>
+<div>
 | Language | Front End | Back End | Database | Hosting |
 | --------------- | --------------- | --------------- | --------------- | --------------- |
 | <img alt="Python" src="https://img.shields.io/badge/python-ffde57?&style=for-the-badge&logo=python&logoColor=646464" /> | <img alt="HTML" src="https://img.shields.io/badge/html-F16529?&style=for-the-badge&logo=html5&logoColor=F5F8FA" /> | <img alt="Django" src="https://img.shields.io/badge/django-092e20?&style=for-the-badge&logo=django&logoColor=F5F8FA" /> | <img alt="My Sql" src="https://img.shields.io/badge/MySQL-F29111?&style=for-the-badge&logo=mysql&logoColor=F5F8FA" /> | <img alt="Digital Ocean" src="https://img.shields.io/badge/DigitalOcean-008bcf?&style=for-the-badge&logo=DigitalOcean&logoColor=F5F8FA" /> |
