@@ -18,7 +18,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techishant&show_icons=true&theme=radical"/></p>
 
 # My Development Stack
-<div>
+<div align=center>
  
 | Language | Front End | Back End | Database | Hosting |
 | --------------- | --------------- | --------------- | --------------- | --------------- |
@@ -29,6 +29,7 @@
 || <img alt="Jquery" src="https://img.shields.io/badge/Jquery-0868AC?&style=for-the-badge&logo=jquery&logoColor=F5F8FA" /> |||||
  
 </div>
+
 # Connect With Me 
 <p align=center> 
 <!-- G-mail -->
