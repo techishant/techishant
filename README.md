@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Hand Emoji" height="45" width="45" />, I'm Ishant Sharma</h1>
-<b>I'm passionate about programming. I like problem solving a lot. I'm learning web development and Data Science and loves to explore tech.</b>
+<p align=center><b>I'm passionate about programming. I like problem solving a lot. I'm learning web development and Data Science and loves to explore tech.</b></p>
 
 <p align=center><a href="https://techishant.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/My-Portfolio-0868AC?&style=for-the-badge"/></p>
 
