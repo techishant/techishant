@@ -38,7 +38,7 @@
     <!-- twitter -->
 <a href="https://twitter.com/Ishant_Sh"><img alt="@Ishant_Sh" src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=F5F8FA" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- Youtube -->
-<a href=""><img alt="YT-Ishant Sharma" src="https://img.shields.io/badge/youtube-FF0000?&style=for-the-badge&logo=youtube&logoColor=F5F8FA" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UC_7zqLvlx5oVq860BtEmSEw"><img alt="YT-Ishant Sharma" src="https://img.shields.io/badge/youtube-FF0000?&style=for-the-badge&logo=youtube&logoColor=F5F8FA" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- Blog -->
 <a href="https://techishant.blogspot.com/"><img alt="Blog" src="https://img.shields.io/badge/Blog-fc4f08?&style=for-the-badge&logo=blogger&logoColor=F5F8FA" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
