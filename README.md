@@ -51,3 +51,5 @@
 - Complete Portfolio
 - Complete iCart
 - Complete OOP's Animal Classification
+- Learn React
+- Get a look at Pymongo
