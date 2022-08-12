@@ -1,21 +1,21 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Hand Emoji" height="45" width="45" />, I'm Ishant Sharma</h1>
 <p align="center"><b>I'm passionate about programming. I like problem solving a lot. I'm learning web development and Data Science and loves to explore tech.</b></p>
 
-<p align=center><a href="https://techishant.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/My-Portfolio-0868AC?&style=for-the-badge"/></p>
+<p align=center><a href="https://techishant.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/My-Portfolio-f9bc2f?&style=for-the-badge"/></p>
 
 <p align="center">
- <a target=_blank href="http://github-readme-streak-stats.herokuapp.com/?user=techishant&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=techishant&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
+ <a target=_blank href="http://github-readme-streak-stats.herokuapp.com/?user=techishant&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=techishant&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D"/>
  </a>
 <!-- </p>
 <p align="center"> -->
-<img src="https://github-readme-stats.vercel.app/api?username=techishant&count_private=true&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=techishant&count_private=true&show_icons=true&theme=gruvbox" />
 </p>
 
 
 ## Github Stats.
-<img alt="Ishant Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=techishant&bg_color=141321&color=c73774&line=fd428d&point=FFFFFF" />
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techishant&show_icons=true&theme=radical"/></p>
+<img alt="Ishant Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=techishant&bg_color=282828&color=fd8019&line=f9bc2f&point=FFFFFF" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techishant&show_icons=true&theme=gruvbox"/></p>
 
 # My Development Stack
 <div align=center>
