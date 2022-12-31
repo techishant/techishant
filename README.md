@@ -14,7 +14,7 @@
 
 
 ## Github Stats.
-<img alt="Ishant Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=techishant&bg_color=282828&color=fd8019&line=f9bc2f&point=FFFFFF" />
+<img alt="Ishant Sharma's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=techishant&bg_color=282828&color=fd8019&line=f9bc2f&point=FFFFFF" />
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techishant&show_icons=true&theme=gruvbox"/></p>
 
 # My Development Stack
@@ -46,10 +46,3 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=techishant&label=Views&color=6805D3">
-
-## Todo
-- Complete Portfolio
-- Complete iCart
-- Complete OOP's Animal Classification
-- Learn React
-- Get a look at Pymongo
