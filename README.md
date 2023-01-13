@@ -9,13 +9,13 @@
  </a>
 <!-- </p>
 <p align="center"> -->
-<img src="https://github-readme-stats.vercel.app/api?username=techishant&count_private=true&show_icons=true&theme=gruvbox" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=techishant&count_private=true&show_icons=true&theme=gruvbox" />
 </p>
 
 
 ## Github Stats.
 <img alt="Ishant Sharma's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=techishant&bg_color=282828&color=fd8019&line=f9bc2f&point=FFFFFF" />
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techishant&show_icons=true&theme=gruvbox"/></p>
+<p align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=techishant&show_icons=true&theme=gruvbox"/></p>
 
 # My Development Stack
 <div align=center>
